@@ -616,3 +616,9 @@ footer .footer-menu__content {
 footer .footer-menu__content li ~ li {
   margin-top: 10px;
 } /*# sourceMappingURL=app.css.map */
+
+iframe{
+  height: 400px;
+  align-items: right;
+  width: 400px;
+}
